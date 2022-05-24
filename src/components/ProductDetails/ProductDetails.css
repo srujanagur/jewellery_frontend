@@ -1,0 +1,12 @@
+.productDescription {
+  padding: 3%;
+}
+.productImage {
+  height: auto;
+  width: 100%;
+  max-width: 35vmax;
+}
+.eachproductdetails {
+  background-color: var(--primary-bg);
+  color: var(--primary-text);
+}

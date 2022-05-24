@@ -1,0 +1,28 @@
+.cartItems {
+  margin: 2rem;
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color: var(--secondary-bg);
+}
+.cartlistimage {
+  display: grid;
+  border-radius: 15px;
+  height: auto;
+  width: 20%;
+  max-width: 10vmax;
+}
+.cartContainer {
+  width: 100%;
+  max-width: 100vmax;
+}
+.cartpage {
+  background-color: var(--primary-bg);
+  color: var(--primary-text);
+}
+.proceedBtn {
+  display: grid;
+  margin: 40px;
+  width: 10px;
+  height: 10px;
+}
